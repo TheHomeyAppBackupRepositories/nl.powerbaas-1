@@ -1,0 +1,1 @@
+With the Powerbaas P1 Meter, you gain insight into your energy usage, monitoring your current consumption, meter readings, and gas usage. Connect the Powerbaas P1 Meter to your P1 meter, integrate it into Homey, and have the data seamlessly available within Homey, with updates occurring every second.
